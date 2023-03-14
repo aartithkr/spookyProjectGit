@@ -17,7 +17,7 @@ public class TwoD
     {
         for(y=0;y<3;y++)
         {
-            System.out.print(A[x][y]);
+            System.out.print(A[x][y]+"\t");
         }
         System.out.println();
     }
